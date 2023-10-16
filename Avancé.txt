@@ -1,0 +1,2 @@
+16/10 : 
+Determination de l'environnement harware, carte PynqZ2 à programmer en Python
